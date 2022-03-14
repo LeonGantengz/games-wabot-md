@@ -1,7 +1,7 @@
 {
-    "name": "games-wabot",
-    "version": "0.9.86",
-    "description": "Customizable WhatsApp Bot",
+    "name": "Yui-Chan",
+    "version": "8.0.0",
+    "description": "WhatsApp Bot By Rama",
     "main": "index.js",
     "type": "module",
     "directories": {
